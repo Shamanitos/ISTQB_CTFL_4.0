@@ -1,5 +1,3 @@
-# ISTQB_CTFL_4.0
-
 # Notes and definitions / ISTQB Foundation Certification v4.0
 **acceptance test-driven development (ATDD)**  
 tests are written before the user story is implemented, based on the acceptance criteria of the software
